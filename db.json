@@ -1,0 +1,118 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Axios",
+      "status": false
+    },
+    {
+      "id": "2",
+      "title": "Learn React",
+      "status": true
+    },
+    {
+      "id": "3",
+      "title": "Build Todo App",
+      "status": false
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "name": "Mumbai",
+      "population": 21673000,
+      "country": "India"
+    },
+    {
+      "id": "2",
+      "name": "Delhi",
+      "population": 18704000,
+      "country": "India"
+    },
+    {
+      "id": "3",
+      "name": "Bengaluru",
+      "population": 13608000,
+      "country": "India"
+    },
+    {
+      "id": "4",
+      "name": "Hyderabad",
+      "population": 10534000,
+      "country": "India"
+    },
+    {
+      "id": "5",
+      "name": "Ahmedabad",
+      "population": 8250000,
+      "country": "India"
+    },
+    {
+      "id": "6",
+      "name": "Chennai",
+      "population": 7764000,
+      "country": "India"
+    },
+    {
+      "id": "7",
+      "name": "Kolkata",
+      "population": 15130000,
+      "country": "India"
+    },
+    {
+      "id": "8",
+      "name": "Pune",
+      "population": 7764000,
+      "country": "India"
+    },
+    {
+      "id": "9",
+      "name": "Surat",
+      "population": 7480000,
+      "country": "India"
+    },
+    {
+      "id": "10",
+      "name": "Jaipur",
+      "population": 4250000,
+      "country": "India"
+    },
+    {
+      "id": "11",
+      "name": "Lucknow",
+      "population": 3900000,
+      "country": "India"
+    },
+    {
+      "id": "12",
+      "name": "Kanpur",
+      "population": 3200000,
+      "country": "India"
+    },
+    {
+      "id": "13",
+      "name": "Nagpur",
+      "population": 2900000,
+      "country": "India"
+    },
+    {
+      "id": "14",
+      "name": "Agra",
+      "population": 1800000,
+      "country": "India"
+    },
+    {
+      "id": "15",
+      "name": "Varanasi",
+      "population": 1500000,
+      "country": "India"
+    },
+    {
+      "name": "Mathura",
+      "population": 8500000,
+      "country": "India",
+      "id": "FDnmmNZUNJg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
